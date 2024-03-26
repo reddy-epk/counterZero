@@ -1,4 +1,4 @@
-A react app showing on how the class component works.
+A react app for showing how the class component works.
 # Class Component and State
 
 - Class Component
